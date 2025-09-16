@@ -54,6 +54,7 @@ I chose **FastAPI** over Flask for this project because:
 
 2. **Install Python dependencies**
    ```bash
+   cd backend
    pip install -r requirements.txt
    ```
 
