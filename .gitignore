@@ -2,3 +2,4 @@ buildops-env/
 node_modules/
 tasks.db
 .idea/
+.DS_Store
