@@ -1,1 +1,4 @@
 buildops-env/
+node_modules/
+tasks.db
+.idea/

@@ -2,6 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../TaskManager">
+      <sourceFolder url="file://$MODULE_DIR$/../TaskManager/backend" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../TaskManager/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 virtualenv at ~/PycharmProjects/TaskManager/.venv" jdkType="Python SDK" />

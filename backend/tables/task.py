@@ -5,6 +5,7 @@ from sqlalchemy import Column, Integer, String, DateTime, Enum, Boolean
 from backend.constants import PriorityEnum
 from backend.db.db import Base
 
+print("Importing ImportJob model", __name__)
 
 class Task(Base):
     __tablename__ = "tasks"

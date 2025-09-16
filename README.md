@@ -60,7 +60,7 @@ I chose **FastAPI** over Flask for this project because:
 
 3. **Run the FastAPI server**
    ```bash
-   python main.py
+   python -m backend.main
    ```
    
    The API will be available at `http://localhost:8000`
@@ -71,6 +71,7 @@ I chose **FastAPI** over Flask for this project because:
 
 1. **Install Node.js dependencies**
    ```bash
+   cd frontend
    npm install
    ```
 
